@@ -31,14 +31,14 @@
     - Tag Syntax
       - Tags start with a '<' and end with a '>'
         - `<p>` (paragraph tag)
-        - <h1> (heading tag)
+        - `<h1>` (heading tag)
       - Tags come in pairs or are self-closing:
-        - <p>This is a paragraph and has a start and end tag.</p>
-        - <img src="image.jpg" /> This is an image tag, it does not have a start and end tag. It self closes before the closing bracket with a forward slash.
+        - `<p>`This is a paragraph and has a start and end tag.`</p>`
+        - `<img src="image.jpg" />` This is an image tag, it does not have a start and end tag. It self closes before the closing bracket with a forward slash.
     - HTML Elements
       - The words 'tag' and 'element' are often used interchangeably. However, they are not the same thing.
       - Elements are made up of tags and the content they are describing.
-        - <p>This is a paragraph with start and end tags. The tags and the content between them make up an HTML element.</p>
+        - `<p>`This is a paragraph with start and end tags. The tags and the content between them make up an HTML element.`</p>`
     - Let's play around in Codepen! (http://codepen.io)
 
 ## Week 2
@@ -48,17 +48,6 @@
   - Learn about some basic tags to get started
   - Review a few websites and discuss how they should be marked up
   - Intro to CodePen (http://codepen.io/)
-  
-  - Homework
-    - Choose what you would like to build your page about
-      - Family
-      - Friends
-      - Pet
-      - Sports
-    - Start to think about what it will look like. What colors might you use?
-      - W3Schools Color Picker, http://www.w3schools.com/colors/colors_picker.asp
-      - Colourlovers, http://www.colourlovers.com/
-      - Adobe Kuler, https://color.adobe.com/create/color-wheel/
 
 ## Tools You Can Use
   - Learn more about HTML and CSS
