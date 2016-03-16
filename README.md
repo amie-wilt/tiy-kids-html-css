@@ -28,7 +28,7 @@
     - Tags separate normal text from HTML code.
     - Tags are not visible in the browser, they tell the browser what kind of content is being displayed.
     - Tags describe different document content
-    - **Tags are chosen based on WHAT the content is, not HOW it looks**\
+    - **Tags are chosen based on WHAT the content is, not HOW it looks**
     - Tag Syntax
       - Tags start with a '<' and end with a '>'
         - `<p>` (paragraph tag)
@@ -54,6 +54,22 @@
     - A selector points to the HTML element that receives the styling.
     - The declaration block opens and closes with curly brackets and contain declarations.
     - A declaration is made up of a property and a value.
+  - CSS Selectors
+    - Element Selector
+      - Selects elements based on the elements name
+      - The element selector of an HTML paragraph (`<p>`) is **p**
+    - ID Selector
+      - Selects elements based on the ID attribute of an element
+      - IDs are unique to one element and elements may only have one ID
+      - They are written with a hash symbol (#)
+      - HTML: <p id="paragraph1">
+      - CSS: #paragraph1
+    - Class Selector
+      - Selects elements based on their class attribute
+      - Classes can be used on multiple elements
+      - They are written with a period (.)
+      - HTML: <p class="paragraph">
+      - CSS: .paragraph
   
 
 ## Tools You Can Use
