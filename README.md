@@ -16,15 +16,35 @@
   - Different tools to help you learn
   
 ## Week 1
+  - What is HTML?
+    - **H**yper**T**ext **M**arkup **L**anguage
+    - Made up of tags and elements
+    - Serves as the structure of a webpage
   - W3C, World Wide Web Consortium (https://www.w3.org/Consortium/)
     - an international community of member organizations, staff and the public that works together to define and develop web standards
     - One Web vision
-  - What is HTML?
-    - **H**yper**T**ext **M**arkup **L**anguage
-    - Made up of tags
-    - Tags separate normal text from HTML code and are not seen in the browser
+  - HTML Tags
+    - Tags separate normal text from HTML code.
+    - Tags are not visible in the browser, they tell the browser what kind of content is being displayed.
     - Tags describe different document content
-    - **Tags are chosen based on WHAT the content is, not HOW it looks**
+    - **Tags are chosen based on WHAT the content is, not HOW it looks**\
+    - Tag Syntax
+      - Tags start with a '<' and end with a '>'
+        - <p> (paragraph tag)
+        - <h1> (heading tag)
+      - Tags come in pairs or are self-closing:
+        - <p>This is a paragraph and has a start and end tag.</p>
+        - <img src="image.jpg" /> This is an image tag, it does not have a start and end tag. It self closes before the closing bracket with a forward slash.
+    - HTML Elements
+      - The words 'tag' and 'element' are often used interchangeably. However, they are not the same thing.
+      - Elements are made up of tags and the content they are describing.
+        - <p>This is a paragraph with start and end tags. The tags and the content between them make up an HTML element.</p>
+    - Let's play around in Codepen! (http://codepen.io)
+
+## Week 2
+    
+  
+
   - What is CSS?
     - CSS stands for **C**ascading **S**tyle **S**heets
     - CSS allow us to determine how HTML elements are displayed
