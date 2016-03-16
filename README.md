@@ -62,13 +62,13 @@
       - Selects elements based on the ID attribute of an element
       - IDs are unique to one element and elements may only have one ID
       - They are written with a hash symbol (#)
-      - HTML: <p id="paragraph1">
+      - HTML: `<p id="paragraph1">`
       - CSS: #paragraph1
     - Class Selector
       - Selects elements based on their class attribute
       - Classes can be used on multiple elements
       - They are written with a period (.)
-      - HTML: <p class="paragraph">
+      - HTML: `<p class="paragraph">`
       - CSS: .paragraph
   
 
