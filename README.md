@@ -30,7 +30,7 @@
     - **Tags are chosen based on WHAT the content is, not HOW it looks**\
     - Tag Syntax
       - Tags start with a '<' and end with a '>'
-        - <p> (paragraph tag)
+        - `<p>` (paragraph tag)
         - <h1> (heading tag)
       - Tags come in pairs or are self-closing:
         - <p>This is a paragraph and has a start and end tag.</p>
@@ -42,9 +42,6 @@
     - Let's play around in Codepen! (http://codepen.io)
 
 ## Week 2
-    
-  
-
   - What is CSS?
     - CSS stands for **C**ascading **S**tyle **S**heets
     - CSS allow us to determine how HTML elements are displayed
