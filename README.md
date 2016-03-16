@@ -4,8 +4,9 @@
   - My name is Amie Wilt
     - I am a web developer
     - I am also a graduate of The Iron Yard
-  - Meet the Teaching Assistant
-  - What the final project will look like
+  - Kurtis is our Teaching Assistant
+    - He is a Ruby developer
+    - He is also a graduate of The Iron Yard
 
 ## Topics we will cover in this course
   - What is HTML?
@@ -44,10 +45,16 @@
 ## Week 2
   - What is CSS?
     - CSS stands for **C**ascading **S**tyle **S**heets
-    - CSS allow us to determine how HTML elements are displayed
-  - Learn about some basic tags to get started
-  - Review a few websites and discuss how they should be marked up
-  - Intro to CodePen (http://codepen.io/)
+    - Where HTML is the **structure** of a webpage, CSS is the **layout** of a webpage.
+    - HTML was never intended to be responsible for the formatting of a webpage.
+    - The W3C created CSS to remove the styling from the HTML markup.
+    - Styles can be managed in one CSS file rather than in numerous HTML files.
+  - CSS Syntax
+    - CSS consists of a selector and a declaration block.
+    - A selector points to the HTML element that receives the styling.
+    - The declaration block opens and closes with curly brackets and contain declarations.
+    - A declaration is made up of a property and a value.
+  
 
 ## Tools You Can Use
   - Learn more about HTML and CSS
