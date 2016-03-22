@@ -78,7 +78,7 @@
       - Block-level elements
         - Always start on a new line
         - Take up the full available width
-        - `<div>`, `<p>`, `<h1>`, `<headter>`
+        - `<div>`, `<p>`, `<h1>`, `<header>`
       - Inline elements
         - Sit inline with the natural flow and therefore do not start on a new line
         - Only take up the necessary width
