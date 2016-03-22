@@ -70,8 +70,27 @@
       - They are written with a period (.)
       - HTML: `<p class="paragraph">`
       - CSS: .paragraph
-  
-
+      
+## Week 3
+  - The CSS **Display** Property
+    - Most important CSS property for displaying layout.
+    - Every HTML element has a default display property, most of which are block or inline.
+      - Block-level elements
+        - Always start on a new line
+        - Take up the full available width
+        - `<div>`, `<p>`, `<h1>`, `<headter>`
+      - Inline elements
+        - Sit inline with the natural flow and therefore do not start on a new line
+        - Only take up the necessary width
+        - Do not respect height and width properties
+        - Accept margin and padding properties but only respond to them horizontally, not vertically
+        - `<span>`, `<a>`, `<img>`
+      - Inline-block elements
+        - Are similar to inline elements in that they sit inline with the natural flow
+        - Take on block-level characteristics in that they respect the width, height, margin and padding properties
+      - display: none;
+        - Can you guess what that does?
+      
 ## Tools You Can Use
   - Learn more about HTML and CSS
     - W3Schools (not affiliated with the W3C), http://www.w3schools.com/
