@@ -90,6 +90,29 @@
         - Take on block-level characteristics in that they respect the width, height, margin and padding properties
       - display: none;
         - Can you guess what that does?
+  - The CSS **Position** Property
+    - Manipulates the location of an HTML element
+      - Static: the default position for all HTML elements
+      - Relative
+      - Absolute
+      - Fixed
+    - Static
+      - The default position for all HTML elements
+      - A static element sticks to the normal page flow
+      - The left, right, top and bottom properties have **no effect** on static elements
+    - Relative
+      - Relative elements also stick to the normal page flow
+      - However, they **are affected** by the left, right, top and bottom properties
+      - These properties move the element relative to its **original position**
+    - Absolute
+      - When an element has a position of absolute, it is **removed from the natural flow of the page**
+      - Other elements will behave as though it is not there
+      - Absolute elements are positioned **relative to their closest positioned parent**
+      - If there is no positioned parent, they are positioned **relative to the document body**
+    - Fixed
+      - A fixed element is **removed from the natural flow of the page** as absolutely-positioned elements are
+      - However, they are always **positioned relative to the document body**, regardless of any positioned parents
+      - Fixed elements are unaffected by scrolling
       
 ## Tools You Can Use
   - Learn more about HTML and CSS
