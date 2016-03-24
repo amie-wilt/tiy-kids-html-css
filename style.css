@@ -1,0 +1,30 @@
+.header {
+  background-image: url("images/saber-header.jpg");
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+}
+
+.nav-list {
+  list-style: none;
+  padding: 50px 100px;
+}
+
+.nav-list-item {
+  display: inline-block;
+  margin: 10px;
+}
+
+.nav-list-link {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+}
+
+.header-heading-1 {
+  color: pink;
+  text-align: center;
+  font-size: 50px;
+  text-shadow: 5px 5px 10px black;
+}
