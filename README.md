@@ -90,6 +90,8 @@
         - Take on block-level characteristics in that they respect the width, height, margin and padding properties
       - display: none;
         - Can you guess what that does?
+        
+## Week 4
   - The CSS **Position** Property
     - Manipulates the location of an HTML element
       - Static: the default position for all HTML elements
