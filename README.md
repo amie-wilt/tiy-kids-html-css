@@ -138,7 +138,7 @@
         - `flex-shrink`
   - Colors
     - Hexadecimal notation (Hex)
-      - takes a value of a mix of 6 numbers and characters in the form of `##RRGGBB`
+      - Takes a value of a mix of 6 numbers and characters in the form of `##RRGGBB`
       - RR = red, GG = green, BB = blue
       - Values are between 00 (the lowest) and FF (the highest)
       - Red: `#FF0000`
