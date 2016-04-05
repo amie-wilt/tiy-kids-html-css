@@ -115,6 +115,41 @@
       - A fixed element is **removed from the natural flow of the page** as absolutely-positioned elements are
       - However, they are always **positioned relative to the document body**, regardless of any positioned parents
       - Fixed elements are unaffected by scrolling
+
+## Week 5
+  - Flexbox (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+    - An efficient way to align and distribute space amongst items in a container, even when their size is unknown.
+    - There are other layout techniques, however this is the newest and best option.
+    - Flex Container
+      - The parent container
+      - Takes the display property with a value of **flex**
+      - There are other properties it can take, however this property must be declared to use flexbox.
+        - `flex-direction`
+        - `flex-wrap`
+        - `flex-flow`
+        - `justify-content`
+        - `align-items`
+    - Flex Items
+      - The children of the parent container
+      - When `display: flex` is declared on a parent container, the **direct children** of that container becomes flex items.
+      - The **flex items** can take properties as well.
+        - `order`
+        - `flex-grow`
+        - `flex-shrink`
+  - Colors
+    - Hexadecimal notation (Hex)
+      - takes a value of a mix of 6 numbers and characters in the form of `##RRGGBB`
+      - RR = red, GG = green, BB = blue
+      - Values are between 00 (the lowest) and FF (the highest)
+      - Red: `#FF0000`
+      - Green: `#00FF00`
+      - Blue: `#0000FF`
+    - RGB (**R**ed, **G**reen, **B**lue)
+      - There are 3 different values, one for **red**, **green**, and **blue**
+      - The values are between 0 (the lowest value) and 255 (the highest value)
+      - Red: `rgb(255, 0, 0)`
+      - Green: `rgb(0, 255, 0)`
+      - Blue: `rgb(0, 0, 255)`
       
 ## Tools You Can Use
   - Learn more about HTML and CSS
@@ -125,6 +160,7 @@
     - JSbin, http://jsbin.com/
   - Colors
     - W3Schools Color Picker, http://www.w3schools.com/colors/colors_picker.asp
+    - Color Slider, http://www.colorpicker.com/ 
     - Colourlovers, http://www.colourlovers.com/
     - Adobe Kuler, https://color.adobe.com/create/color-wheel/
   - Dummy Text
