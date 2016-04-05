@@ -131,7 +131,7 @@
         - `align-items`
     - Flex Items
       - The children of the parent container
-      - When `display: flex` is declared on a parent container, the **direct children** of that container becomes flex items.
+      - When `display: flex` is declared on a parent container, the **direct children** of that container become flex items.
       - The **flex items** can take properties as well.
         - `order`
         - `flex-grow`
